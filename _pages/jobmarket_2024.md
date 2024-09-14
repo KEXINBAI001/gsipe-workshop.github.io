@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Job Market Candidates"
-permalink: /job-market_23/
+permalink: /jobmarket_2024/
 toc: true
 toc_label: "JM tags"
 author_profile: true
@@ -126,9 +126,9 @@ details[open] div {
 <thead>
     <tr>
             <td class="tg-0pky">
-    <p style="font-size:20px"><a href = "https://www.christianmorinelliott.com/"><b>Christian Elliott</b></a></p>
-<a href="https://www.christianmorinelliott.com/">
-    <img src="https://gsipe-workshop.github.io/images/Elliott.JPG" width="300" height="300"
+    <p style="font-size:20px"><a href = "http://williamdoconnell.com"><b>William O'Connell</b></a></p>
+<a href="http://williamdoconnell.com">
+    <img src="HTTPs://gsipe-workshop.github.io/images/O'CONNELL_WILLIAM - William O'Connell.jpg" width="300" height="300"
     ></a>
   <br />
   <details><summary>BIO</summary><p>Christian works at the intersection of international relations and public policy, specializing in the political economy of climate change across multiple scales. Therein, his work addresses the increasingly decentralized web of institutions and organizations that governs markets and their environmental impacts across borders. While the lion's share of his research agenda is organized substantively on the topic of sustainable finance, his scholarship gravitates towards three overlapping areas: the consequences of institutional complexity, international-domestic interactions in public policy, and the social construction of economic interests.
