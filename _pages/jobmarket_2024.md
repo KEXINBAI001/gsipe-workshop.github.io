@@ -138,7 +138,7 @@ details[open] div {
       <td class="tg-0pky">
     <p style="font-size:20px"><a href = ""><b>RyuGyung (Rio) Park</b></a></p>
     <a href="https://riopark.weebly.com/">
-    <img src="https://gsipe-workshop.github.io/images/Park_RyuGyung - RyuGyung Park.JPG" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/images/RyuGyung_Park.JPG" width="300" height="300"
     ></a>
   <br />
   <details><summary>BIO</summary><p>RyuGyung (Rio) Park is a PhD candidate at the University of California, Davis. Her research focuses on the international political economy of trade and environmental policies. Her dissertation examines the behaviors of legislators, interest groups, and the public in the dual challenge of free trade and climate change. More broadly, she studies trade-offs between economy and environment, using a variety of research methods, including causal inference designs, survey experiments, and interviews. She received her B.A. in international relations and communications, and her M.A. in public policy from Seoul National University. </p>
@@ -151,7 +151,7 @@ details[open] div {
       <td class="tg-0pky">
    <p style="font-size:20px"><a href = "https://www.sojunpark.com/"><b>Sojun Park</b></a></p>
     <a href="https://www.sojunpark.com/">
-    <img src="https://gsipe-workshop.github.io/images/head-shot (Sojun Park, last 2) - Sojun Park.jpg" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/images/Sojun_Park.jpg" width="300" height="300"
     ></a>
   <br />
   <details><summary>BIO</summary><p>I am a Ph.D. candidate at Princeton University and a Global Political Economy Project fellow at Georgetown University. My research uncovers various sources of economic insecurity firms encounter in a globalized world, such as intellectual property theft and pandemics, and shows how the unpredictability of global markets drives corporate political behaviors and trade negotiations. I hold a B.A. in International Studies and a B.A. in Economics from Korea University. My work has been published at the Review of International Organizations and won the Best Graduate Student Paper Award at the International Studies Association's International Political Economy (IPE) section in 2024. </p>
@@ -160,7 +160,7 @@ details[open] div {
      <td class="tg-0pky">
    <p style="font-size:20px"><a href = "https://ishanaratan.com/"><b>Ishana Ratan</b></a></p>
     <a href="https://ishanaratan.com/">
-    <img src="https://gsipe-workshop.github.io/images/RATAN_ISHANA - Ishana Ratan.jpg" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/images/Ishana_Ratan.jpg" width="300" height="300"
     ></a>
   <br />
   <details><summary>BIO</summary><p>I am a PhD candidate in Political Science at the University of California, Berkeley. I research the international political economy of renewable energy investment, and my dissertation project examines how renewable energy firm ownership shapes lobbying for the energy transition. I am also an Assistant Director at the Berkeley APEC Study Center and pre-doctoral fellow at the Boston University Global Development Policy Center (2022-2024). My work has been funded by the UC Institute for Global Conflict and Cooperation, the UC Berkeley Institute for International Studies, Network for a New Political Economy, and American Political Science Association. </p>
@@ -173,7 +173,7 @@ details[open] div {
       <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.zarlashtmrazeq.com/"><b>Zarlasht M. Razeq</b></a></p>
     <a href="https://www.zarlashtmrazeq.com/">
-    <img src="https://gsipe-workshop.github.io/images/Razeq_Zarlasht - Zarlasht Razeq.jpg"   width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/images/Zarlasht_Razeq.jpg"   width="300" height="300"
     ></a>
   <br />
   <details><summary>BIO</summary><p>Zarlasht received her Ph.D. in Political Science from McGill University in 2023. Her research interests are in the IPE of trade, GVCs, and FDI. Her dissertation examined the effect of trade institutions (deep PTAs) on GVCs at the country and firm levels. In 2024/2025, she is a research fellow at the Niehaus Center for Globalization and Governance.  Her current projects focus on MNCs’ supply chain networks, FDI and climate change, and the role of international trade institutions in supply chain resilience. In the 2023/2024 academic year, she was a Research Fellow at the Warwick Business School U.K.  
@@ -184,7 +184,7 @@ details[open] div {
 <td class="tg-0pky">
    <p style="font-size:20px"><a href = "https://uva.theopenscholar.com/melle-scholten"><b>Melle Scholten</b></a></p>
     <a href="https://uva.theopenscholar.com/melle-scholten">
-    <img src="https://gsipe-workshop.github.io/images/SCHOLTEN_MELLE - Melle Scholten.jpg" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/images/Melle_Scholten.jpg" width="300" height="300"
     ></a>
   <br />
   <details><summary>BIO</summary><p>I am currently a PhD candidate at the University of Virginia (ABD, committee chair: David Leblang), and have been a lecturer at the University of Groningen, and an Adjunct Faculty member at Mary Baldwin University. My research interests include the political economy of migration and remittances, as well as international and comparative political economy conceived more broadly, using the tools of experimental and observational causal inference. My teaching experience covers a wide range of courses covering political science, history, economics, methods, and statistics.  
@@ -200,7 +200,7 @@ details[open] div {
     <td class="tg-0pky">
    <p style="font-size:20px"><a href = "https://www.yujinzhang.com/"><b>Yujin Zhang</b></a></p>
     <a href="https://www.yujinzhang.com/">
-    <img src="https://gsipe-workshop.github.io/images/Zhang_Yujin - Yujin Zhang.jpg" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/images/Yujin_Zhang.jpg" width="300" height="300"
     ></a>
   <br />
   <details><summary>BIO</summary><p>Yujin Zhang is a Ph.D. candidate in the Department of Political Science at Columbia University. I am interested in how individuals' political attitudes and behaviors are shaped by personal experiences, particularly their economic backgrounds. My research focuses on the political consequences of changing economic conditions, particularly those related to international trade, immigration, and economic crises.</p>
