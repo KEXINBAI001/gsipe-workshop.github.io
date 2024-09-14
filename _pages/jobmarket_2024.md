@@ -136,12 +136,12 @@ details[open] div {
   </details>
   </td>
       <td class="tg-0pky">
-    <p style="font-size:20px"><a href = ""><b>Valentina Gonzalez-Rostani</b></a></p>
-    <a href="https://gonzalez-rostani.com/">
-    <img src="https://gsipe-workshop.github.io/images/GONZALEZROSTANI_VALENTINA2.jpg" width="300" height="300"
+    <p style="font-size:20px"><a href = ""><b>RyuGyung (Rio) Park</b></a></p>
+    <a href="https://riopark.weebly.com/">
+    <img src="https://gsipe-workshop.github.io/images/Park_RyuGyung - RyuGyung Park.JPG" width="300" height="300"
     ></a>
   <br />
-  <details><summary>BIO</summary><p>I'm a Ph.D. candidate at the University of Pittsburgh and a Mellon Predoctoral Fellow. My main research interests lie at the intersection of international political economy and comparative politics. My dissertation generates novel insights into the political economy of job automation, the primary driver of economic polarization, by investigating the causal mechanisms influencing individuals' political attitudes and the impact of electoral institutions on political actors' responses. I study the interplay between economic, cultural, and institutional factors using mixed-methods approaches that combine quantitative analysis, text-as-data, survey experiment, and formal modeling. I am also interested in international trade, inequality, climate policy, and political methodology.</p>
+  <details><summary>BIO</summary><p>RyuGyung (Rio) Park is a PhD candidate at the University of California, Davis. Her research focuses on the international political economy of trade and environmental policies. Her dissertation examines the behaviors of legislators, interest groups, and the public in the dual challenge of free trade and climate change. More broadly, she studies trade-offs between economy and environment, using a variety of research methods, including causal inference designs, survey experiments, and interviews. She received her B.A. in international relations and communications, and her M.A. in public policy from Seoul National University. </p>
   </details>
   </td>
                 </tr>
@@ -149,21 +149,21 @@ details[open] div {
 <thead>
   <tr>
       <td class="tg-0pky">
-   <p style="font-size:20px"><a href = "www.linkedin.com/in/andrew-f-kaufman/n/"><b>Drew, Kaufman</b></a></p>
-    <a href="www.linkedin.com/in/andrew-f-kaufman/n/">
-    <img src="https://gsipe-workshop.github.io/images/Kaufman.jpeg" width="300" height="300"
+   <p style="font-size:20px"><a href = "https://www.sojunpark.com/"><b>Sojun Park</b></a></p>
+    <a href="https://www.sojunpark.com/">
+    <img src="https://gsipe-workshop.github.io/images/head-shot (Sojun Park, last 2) - Sojun Park.jpg" width="300" height="300"
     ></a>
   <br />
-  <details><summary>BIO</summary><p>Drew Kaufman is an economic geographer and a SSHRC postdoctoral researcher at Queen's University, Canada, specializing in the debt of low-and-middle-income countries. His recently completed Ph.D. from the University of Toronto (2023) explored the political economy of the market for the Global South's debt. Drew's mixed-methods research traces capital as it circulates amongst lenders, borrowing nations, and global markets. He scrutinizes debt markets by drawing on both primary and secondary sources, whether by analyzing archives, documents, economic databases, and financial instruments or by interviewing key market actors or conducting ethnographies of financial events. </p>
+  <details><summary>BIO</summary><p>I am a Ph.D. candidate at Princeton University and a Global Political Economy Project fellow at Georgetown University. My research uncovers various sources of economic insecurity firms encounter in a globalized world, such as intellectual property theft and pandemics, and shows how the unpredictability of global markets drives corporate political behaviors and trade negotiations. I hold a B.A. in International Studies and a B.A. in Economics from Korea University. My work has been published at the Review of International Organizations and won the Best Graduate Student Paper Award at the International Studies Association's International Political Economy (IPE) section in 2024. </p>
   </details>
   </td>
      <td class="tg-0pky">
-   <p style="font-size:20px"><a href = "https://shengqiaolin.com/"><b>Shengqiao Lin</b></a></p>
-    <a href="https://shengqiaolin.com/">
-    <img src="https://gsipe-workshop.github.io/images/Shengqiao_Lin.jpg" width="300" height="300"
+   <p style="font-size:20px"><a href = "https://ishanaratan.com/"><b>Ishana Ratan</b></a></p>
+    <a href="https://ishanaratan.com/">
+    <img src="https://gsipe-workshop.github.io/images/RATAN_ISHANA - Ishana Ratan.jpg" width="300" height="300"
     ></a>
   <br />
-  <details><summary>BIO</summary><p>I am Shengqiao Lin, currently a Ph.D. candidate in the Department of Government at the University of Texas at Austin. My research centers on state-business relations with a regional focus on China. I am interested in how firms strategically respond to government intervention (e.g., policy shift, regulation, sanction), and how these interactions shape governance outcomes. My dissertation studies firm behavior responding to political risk in China using a mixed-methods approach that combines causal inference, computational methods, and in-depth interviews. My job market paper won the Franklin L. Burdette/Pi Sigma Alpha Award for the best conference paper of APSA in 2023.</p>
+  <details><summary>BIO</summary><p>I am a PhD candidate in Political Science at the University of California, Berkeley. I research the international political economy of renewable energy investment, and my dissertation project examines how renewable energy firm ownership shapes lobbying for the energy transition. I am also an Assistant Director at the Berkeley APEC Study Center and pre-doctoral fellow at the Boston University Global Development Policy Center (2022-2024). My work has been funded by the UC Institute for Global Conflict and Cooperation, the UC Berkeley Institute for International Studies, Network for a New Political Economy, and American Political Science Association. </p>
   </details> 
   </td>
               </tr>
@@ -171,86 +171,46 @@ details[open] div {
 <thead>
   <tr>
       <td class="tg-0pky">
-    <p style="font-size:20px"><a href = "https://sites.google.com/view/elisanavarra"><b>Elisa Navarra</b></a></p>
-    <a href="https://sites.google.com/view/elisanavarra">
-    <img src="https://gsipe-workshop.github.io/images/ELISA_NAVARRA.jpg" width="300" height="300"
+    <p style="font-size:20px"><a href = "https://www.zarlashtmrazeq.com/"><b>Zarlasht M. Razeq</b></a></p>
+    <a href="https://www.zarlashtmrazeq.com/">
+    <img src="https://gsipe-workshop.github.io/images/Razeq_Zarlasht - Zarlasht Razeq.jpg"   width="300" height="300"
     ></a>
   <br />
-  <details><summary>BIO</summary><p>I am a Ph.D. candidate in Economics affiliated to the Université Libre de Bruxelles and the European Center for Advanced Research in Economics and Statistics. I am also a research fellow at the Fund for Scientific Research (F.R.S.-FNRS). My research interests are in international trade, focusing on subsidies, political economy of trade, and firm environmental responsibility. Before starting my Ph.D., I studied at Bocconi University, where I completed a BSc and a MSc in Economics and Social Sciences, and at Université Catholique de Louvain (UCLouvain), where I pursued a MRes in Economics. During the a.y. 2022-23, I visited the Investment Research Section of the Division on Investment & Enterprises (DIAE) at the United Nations Conference on Trade and Development (UNCTAD) working as Associate Economic Affairs Officer.</p>
+  <details><summary>BIO</summary><p>Zarlasht received her Ph.D. in Political Science from McGill University in 2023. Her research interests are in the IPE of trade, GVCs, and FDI. Her dissertation examined the effect of trade institutions (deep PTAs) on GVCs at the country and firm levels. In 2024/2025, she is a research fellow at the Niehaus Center for Globalization and Governance.  Her current projects focus on MNCs’ supply chain networks, FDI and climate change, and the role of international trade institutions in supply chain resilience. In the 2023/2024 academic year, she was a Research Fellow at the Warwick Business School U.K.  
+  </p>
   </details> 
   </td>
-             
-    <td class="tg-0pky">
-   <p style="font-size:20px"><a href = "https://nicolanones.weebly.com"><b>Nicola Nones</b></a></p>
-    <a href="https://nicolanones.weebly.com">
-    <img src="https://gsipe-workshop.github.io/images/Nones_pic_sqaure.jpeg" width="300" height="300"
+
+<td class="tg-0pky">
+   <p style="font-size:20px"><a href = "https://uva.theopenscholar.com/melle-scholten"><b>Melle Scholten</b></a></p>
+    <a href="https://uva.theopenscholar.com/melle-scholten">
+    <img src="https://gsipe-workshop.github.io/images/SCHOLTEN_MELLE - Melle Scholten.jpg" width="300" height="300"
     ></a>
   <br />
-  <details><summary>BIO</summary><p>Nicola Nones is a Postdoctoral Research Fellow at the Munk School of Public Policy and International Relations at the University of Toronto. He holds a Ph.D. in Political Science from the University of Virginia. His main research interests lie at the intersection of political economy and political communication, with a substantive focus on financial markets and a regional focus on European as well as G20 markets. His dissertation investigates how socially constructed media categories, such as BRICS (Brazil, Russia, India, China, South Africa) and PIIGS (Portugal, Italy, Ireland, Greece, Spain), affect financial investors' sentiments.</p>
+  <details><summary>BIO</summary><p>I am currently a PhD candidate at the University of Virginia (ABD, committee chair: David Leblang), and have been a lecturer at the University of Groningen, and an Adjunct Faculty member at Mary Baldwin University. My research interests include the political economy of migration and remittances, as well as international and comparative political economy conceived more broadly, using the tools of experimental and observational causal inference. My teaching experience covers a wide range of courses covering political science, history, economics, methods, and statistics.  
+  </p>
   </details> 
   </td>
             </tr>
 </thead>
 <thead>
   <tr>
+
+            
     <td class="tg-0pky">
-    <p style="font-size:20px"><a href = "https://cobrienudry.github.io/"><b>Cleo O'Brien-Udry</b></a></p>
-    <a href="https://cobrienudry.github.io/">
-    <img src="https://gsipe-workshop.github.io/images/O_Brien.png" width="300" height="300"
+   <p style="font-size:20px"><a href = "https://www.yujinzhang.com/"><b>Yujin Zhang</b></a></p>
+    <a href="https://www.yujinzhang.com/">
+    <img src="https://gsipe-workshop.github.io/images/Zhang_Yujin - Yujin Zhang.jpg" width="300" height="300"
     ></a>
   <br />
-  <details><summary>BIO</summary><p>I am a postdoc at Penn's Browne Center for International Relations and a PhD candidate at Yale University.  Broadly, I study international political economy with particular interest in aid, development, climate and energy politics, ethnic relations, and scientific innovation. My work draws on my experience as a Peace Corps Volunteer, months of fieldwork, and extensive quantitative and qualitative methods training. I also organize lots of conferences/workshops/special issues for the IPE community writ large.</p>
-  </details>
+  <details><summary>BIO</summary><p>Yujin Zhang is a Ph.D. candidate in the Department of Political Science at Columbia University. I am interested in how individuals' political attitudes and behaviors are shaped by personal experiences, particularly their economic backgrounds. My research focuses on the political consequences of changing economic conditions, particularly those related to international trade, immigration, and economic crises.</p>
+  </details> 
   </td>
-  
-  
-    
-        <td class="tg-0pky">
-    <p style="font-size:20px"><a href = "https://jihyepark.me"><b>Jihye Park</b></a></p>
-<a href="https://jihyepark.me">
-    <img src="https://gsipe-workshop.github.io/images/PARK_JIHYE.JPG" width="300" height="300"
-    ></a>
-  <br />
-  <details><summary>BIO</summary><p>I am a PhD candidate at the Department of Political Science at University of Rochester. I hold Bachelor’s degree in Business Administration from Yonsei University. My research interests mostly center around international political economy, trade policy, firm lobbying and quantitative methodology (with particular interest in quasi-experimental methods).</p>
-  </details> </td> 
-      </tr>
+            </tr>
 </thead>
 <thead>
   <tr>
-
-
-    <td class="tg-0pky">
-    <p style="font-size:20px"><a href = "https://www.sojunpark.com/"><b>Sojun Park</b></a></p>
-<a href="https://www.sojunpark.com/">
-    <img src="https://gsipe-workshop.github.io/images/Park_Sojun.jpg" width="300" height="300"
-    ></a>
-  <br />
-  <details><summary>BIO</summary><p>Sojun Park is a Ph.D. candidate in Politics at Princeton. His research expertise lies in the politics of intellectual property rights, where he studies how public interests shape business-government and inter-governmental relations. His job market paper shows how public pressure for government regulation of patented medicines leads to self-regulation by global drug companies, using game theory and statistical analysis. His other dissertation chapter explains how business interests shape trade policies for patent protection. His co-authored projects also examine how international organizations help member states maintain their autonomy over public policies and improve public accountability during national emergencies.</p>
-  </details> </td>
     
-    
-        <td class="tg-0pky">
-    <p style="font-size:20px"><a href = "https://www.haocharliezhang.com/"><b>Hao Zhang</b></a></p>
-<a href="https://www.haocharliezhang.com/">
-    <img src="https://gsipe-workshop.github.io/images/Zhang_Hao.jpg" width="300" height="300"
-    ></a>
-  <br />
-  <details><summary>BIO</summary><p>Hao Zhang is a PhD candidate in political science at MIT. His research interests include the politics of global production networks, state-business relations, and applied statistical models. His dissertation examines how the rise of global value chains reshapes trade coalitions and trade lobbying within and across national borders, with a regional focus on China and the US. A related stream of his research investigates the political foundations of China's rise in global value chains. His work has appeared in the American Journal of Political Science and the Chinese Journal of International Politics.</p>
-  </details> </td> 
-      </tr>
-</thead>
-<thead>
-  <tr>
-      <td class="tg-0pky">
-   <p style="font-size:20px"><a href = "https://jingqian.org"><b>Jing Qian</b></a></p>
-    <a href="https://jingqian.org">
-    <img src="https://gsipe-workshop.github.io/images/jing_qian.jpg" width="300" height="300"
-    ></a>
-  <br />
-  <details><summary>BIO</summary><p>My name is Jing Qian, and I am a Postgraduate Research Associate in the Department of Politics at Princeton University, where I defended my dissertation in May 2023. I am also affiliated with the Niehaus Center for Globalization and Governance. My dissertation explores the domestic and international politics of international taxation, with a focus on why — for decades — governments have been reluctant and unable to curb tax avoidance. More broadly, I study the politics of public finance, as well as transparency and replicability in quantitative research. My dissertation is supported by the Princeton University Multi-Center Graduate Student Dissertation Grant. Some of my work has been published in International Organization and Public Administration. </p>
-  </details>
-  </td>
-      </tr>
 </thead>  
 
 </table>
